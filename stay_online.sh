@@ -3,8 +3,6 @@
 # $1 is username
 # $2 is the password
 
-echo 'Stay online at CST, Bhutan'
-
 while [ 1 ]; 
 do
 	curl --data 'auth_user='$1'&auth_pass='$2'&accept=Continue' 172.23.20.1:8002/
