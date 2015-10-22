@@ -1,4 +1,4 @@
-# cst-stay-online
+# CST Stay Online
 A small script I used to bypass the authentication popup that occured every other minute at College of 
 Science and Technology, Royal University of Bhutan. Uploaded here on request from several of the students.
 
