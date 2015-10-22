@@ -10,5 +10,4 @@ To run the script, write:
 
 Supported by Linux and OS X.
 
-Install [cygwin](https://www.cygwin.com/) to run it on Windows. 
-
+Install [cygwin](https://www.cygwin.com/) and then [cURL](http://stackoverflow.com/questions/3647569/how-do-i-install-curl-on-cygwin) to run it on Windows. 
